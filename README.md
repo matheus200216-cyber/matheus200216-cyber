@@ -16,7 +16,7 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0B0D12?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/SEU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-0B0D12?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/matheus200216-cyber)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5865F2?style=for-the-badge\&logo=linkedin\&logoColor=FFFFFF)](https://www.linkedin.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge\&logo=instagram\&logoColor=FFFFFF)](https://instagram.com/)
 
@@ -70,9 +70,9 @@ Tenho interesse em transformar ideias em sistemas funcionais, modernos e bem est
 <br>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0B0D12&title_color=5865F2&icon_color=00D9FF&text_color=F5F7FA&locale=pt-br" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=matheus200216-cyber&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0B0D12&title_color=5865F2&icon_color=00D9FF&text_color=F5F7FA&locale=pt-br" height="180em"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&hide_border=true&bg_color=0B0D12&title_color=8B5CF6&text_color=F5F7FA&locale=pt-br" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus200216-cyber&layout=compact&langs_count=8&hide_border=true&bg_color=0B0D12&title_color=8B5CF6&text_color=F5F7FA&locale=pt-br" height="180em"/>
 
 
 </div>
@@ -85,7 +85,7 @@ Tenho interesse em transformar ideias em sistemas funcionais, modernos e bem est
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=transparent&hide_border=true&background=0B0D12&stroke=5865F2&ring=8B5CF6&fire=00D9FF&currStreakLabel=F5F7FA&sideLabels=F5F7FA&currStreakNum=00D9FF&sideNums=5865F2&dates=F5F7FA" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus200216-cyber&theme=transparent&hide_border=true&background=0B0D12&stroke=5865F2&ring=8B5CF6&fire=00D9FF&currStreakLabel=F5F7FA&sideLabels=F5F7FA&currStreakNum=00D9FF&sideNums=5865F2&dates=F5F7FA" />
 
 </div>
 
