@@ -57,7 +57,7 @@ Tenho interesse em transformar ideias em sistemas funcionais, modernos e bem est
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=java,python,nodejs,bootstrap,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,bootstrap,linux&theme=dark" />
 
 </div>
 
@@ -68,10 +68,12 @@ Tenho interesse em transformar ideias em sistemas funcionais, modernos e bem est
 ## 📊 GitHub Stats
 
 <br>
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&bg_color=0B0D12&title_color=5865F2&icon_color=00D9FF&text_color=F5F7FA&ring_color=8B5CF6&locale=pt-br" />
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0B0D12&title_color=5865F2&icon_color=00D9FF&text_color=F5F7FA&locale=pt-br" height="180em"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&hide_border=true&theme=transparent&bg_color=0B0D12&title_color=5865F2&text_color=F5F7FA&locale=pt-br" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&hide_border=true&bg_color=0B0D12&title_color=8B5CF6&text_color=F5F7FA&locale=pt-br" height="180em"/>
+
 
 </div>
 
@@ -91,7 +93,7 @@ Tenho interesse em transformar ideias em sistemas funcionais, modernos e bem est
 
 <div align="center">
 
-## 📈 Atividade
+## 📈 Atividade no GitHub
 
 <br>
 
