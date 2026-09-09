@@ -107,7 +107,7 @@ Tenho interesse em transformar ideias em sistemas funcionais, modernos e bem est
 
 <br>
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.gif" width="95%" alt="Animação da cobrinha nas contribuições do GitHub"/>
+<img src="https://raw.githubusercontent.com/matheus200216-cyber/matheus200216-cyber/output/github-contribution-grid-snake.gif" width="95%" alt="Animação da cobrinha nas contribuições do GitHub"/>
 
 </div>
 
