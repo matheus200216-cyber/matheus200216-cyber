@@ -68,12 +68,9 @@ Tenho interesse em transformar ideias em sistemas funcionais, modernos e bem est
 ## 📊 GitHub Stats
 
 <br>
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=matheus200216-cyber&show_icons=true&hide_border=true&theme=transparent&bg_color=0B0D12&title_color=5865F2&icon_color=00D9FF&text_color=F5F7FA" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=matheus200216-cyber&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0B0D12&title_color=5865F2&icon_color=00D9FF&text_color=F5F7FA&locale=pt-br" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus200216-cyber&layout=compact&langs_count=8&hide_border=true&bg_color=0B0D12&title_color=8B5CF6&text_color=F5F7FA&locale=pt-br" height="180em"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus200216-cyber&layout=compact&hide_border=true&theme=transparent&bg_color=0B0D12&title_color=8B5CF6&text_color=F5F7FA" height="180"/>
 
 </div>
 
@@ -97,7 +94,7 @@ Tenho interesse em transformar ideias em sistemas funcionais, modernos e bem est
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0B0D12&color=F5F7FA&line=5865F2&point=00D9FF&area=true&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheus200216-cyber&bg_color=0B0D12&color=F5F7FA&line=5865F2&point=00D9FF&area=true&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub" width="95%"/>
 
 </div>
 
