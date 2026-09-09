@@ -55,10 +55,6 @@ Tenho interesse em transformar ideias em sistemas funcionais, modernos e bem est
 
 <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,git,github,vscode&theme=dark" />
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,nodejs,bootstrap,linux&theme=dark" />
-
 </div>
 
 ---
@@ -232,3 +228,5 @@ Alguns dos meus projetos estão sendo desenvolvidos de forma privada enquanto ev
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:5865F2,100:8B5CF6&height=120&section=footer" width="100%"/>
 
 </div>
+<div align="center">
+
