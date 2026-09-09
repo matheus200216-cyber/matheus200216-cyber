@@ -65,14 +65,19 @@ Tenho interesse em transformar ideias em sistemas funcionais, modernos e bem est
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 🚀 GitHub
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=matheus200216-cyber&show_icons=true&hide_border=true&theme=transparent&bg_color=0B0D12&title_color=5865F2&icon_color=00D9FF&text_color=F5F7FA" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus200216-cyber&layout=compact&hide_border=true&theme=transparent&bg_color=0B0D12&title_color=8B5CF6&text_color=F5F7FA" height="180"/>
+![GitHub followers](https://img.shields.io/github/followers/matheus200216-cyber?style=for-the-badge&logo=github&label=Seguidores&color=5865F2)
+
+![GitHub stars](https://img.shields.io/github/stars/matheus200216-cyber?style=for-the-badge&logo=github&label=Stars&color=8B5CF6)
+
+![GitHub repos](https://img.shields.io/badge/Projetos%20públicos-Confira%20no%20perfil-00D9FF?style=for-the-badge&logo=github)
 
 </div>
+
+
 
 ---
 
@@ -88,15 +93,7 @@ Tenho interesse em transformar ideias em sistemas funcionais, modernos e bem est
 
 ---
 
-<div align="center">
 
-## 📈 Atividade no GitHub
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheus200216-cyber&bg_color=0B0D12&color=F5F7FA&line=5865F2&point=00D9FF&area=true&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub" width="95%"/>
-
-</div>
 
 ---
 
